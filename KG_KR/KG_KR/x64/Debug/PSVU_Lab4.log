@@ -1,0 +1,44 @@
+﻿  KR_KG.cpp
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glBegin в функции "void __cdecl Display(void)" (?Display@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glBindTexture в функции "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glClear в функции "void __cdecl Display(void)" (?Display@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glClearColor в функции "void __cdecl Initialize(void)" (?Initialize@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glColor3f в функции "void __cdecl Display(void)" (?Display@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glColorMaterial в функции "void __cdecl Initialize(void)" (?Initialize@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glDisable в функции "void __cdecl grass(void)" (?grass@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glEnable в функции "void __cdecl Initialize(void)" (?Initialize@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glEnd в функции "void __cdecl Display(void)" (?Display@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glFlush в функции "void __cdecl Display(void)" (?Display@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glGenTextures в функции "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glLightfv в функции "void __cdecl Light(void)" (?Light@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glLoadIdentity в функции "void __cdecl Display(void)" (?Display@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glMatrixMode в функции "void __cdecl Initialize(void)" (?Initialize@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glOrtho в функции "void __cdecl Initialize(void)" (?Initialize@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glPopMatrix в функции "void __cdecl drawApple(double)" (?drawApple@@YAXN@Z).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glPushMatrix в функции "void __cdecl drawApple(double)" (?drawApple@@YAXN@Z).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glRotatef в функции "void __cdecl Display(void)" (?Display@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glTexCoord2f в функции "void __cdecl grass(void)" (?grass@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glTexEnvf в функции "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glTexParameterf в функции "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glTranslated в функции "void __cdecl drawApple(double)" (?drawApple@@YAXN@Z).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glTranslatef в функции "void __cdecl Display(void)" (?Display@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glVertex3f в функции "void __cdecl Display(void)" (?Display@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ gluBuild2DMipmaps в функции "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp___glutInitWithExit в функции glutInit_ATEXIT_HACK.
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutInitDisplayMode в функции main.
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutInitWindowPosition в функции main.
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutInitWindowSize в функции main.
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutMainLoop в функции main.
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp___glutCreateWindowWithExit в функции glutCreateWindow_ATEXIT_HACK.
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutPostRedisplay в функции "void __cdecl specialKeys(int,int,int)" (?specialKeys@@YAXHHH@Z).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutSwapBuffers в функции "void __cdecl Display(void)" (?Display@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutDisplayFunc в функции main.
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutSpecialFunc в функции main.
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutWireSphere в функции "void __cdecl drawSmoke(double,double)" (?drawSmoke@@YAXNN@Z).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutSolidSphere в функции "void __cdecl Display(void)" (?Display@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutSolidCone в функции "void __cdecl Display(void)" (?Display@@YAXXZ).
+KR_KG.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_glutSolidCube в функции "void __cdecl Display(void)" (?Display@@YAXXZ).
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\opengl32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\glu32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\glut32.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\bfoyb\OneDrive\Desktop\PSVU_Lab4\x64\Debug\KR_KG.exe : fatal error LNK1120: неразрешенных внешних элементов: 39
